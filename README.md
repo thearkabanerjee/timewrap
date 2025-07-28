@@ -4,7 +4,7 @@
 
 ![Timewrap CLI](assests/final-product.png)
 
-* Philosophy:  Don't Let Your Life Slip By. *
+# Philosophy:  Don't Let Your Life Slip By.
 
 "It is not that we have a short time to live, but that we waste much of it."
 — Seneca
