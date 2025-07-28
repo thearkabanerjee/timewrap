@@ -1,5 +1,9 @@
 # TimeWrap
 
+## Preview
+
+![Timewrap CLI](assets/final-product.png)
+
 * Philosophy:  Don't Let Your Life Slip By. *
 
 "It is not that we have a short time to live, but that we waste much of it."
