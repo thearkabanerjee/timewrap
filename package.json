@@ -1,0 +1,17 @@
+{
+  "name": "timewrap",
+  "version": "1.1.1",
+  "description": "Visualize your life in time with a powerful CLI experience",
+  "type": "module",
+  "bin": {
+    "timewrap": "./index.mjs"
+  },
+  "author": "Arka Banerjee",
+  "license": "MIT",
+  "keywords": ["cli", "life", "productivity", "time", "terminal", "visualize","getting-better"],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "boxen": "^7.1.1",
+    "dayjs": "^1.11.10"
+  }
+}
