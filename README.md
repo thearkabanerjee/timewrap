@@ -15,7 +15,7 @@ It’s about facing your timeline with honesty — and choosing your path delibe
 npm link: https://www.npmjs.com/package/timewrap
 
 ** the project was created as submission for the 2025 Boot.dev hackathon **
- link: https://blog.boot.dev/news/hackathon-2025/
+link: https://blog.boot.dev/news/hackathon-2025/
 
 
 **A minimalist CLI tool to reflect on your life in terms of time — lived, lost, and remaining.**
