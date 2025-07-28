@@ -8,6 +8,7 @@
 This tool isn’t about maximizing output.
 It’s about facing your timeline with honesty — and choosing your path deliberately.
 
+npm link: https://www.npmjs.com/package/timewrap
 
 ** the project was created as submission for the 2025 Boot.dev hackathon **
  link: https://blog.boot.dev/news/hackathon-2025/
