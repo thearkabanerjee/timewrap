@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Timewrap CLI](assets/final-product.png)
+![Timewrap CLI](assests/final-product.png)
 
 * Philosophy:  Don't Let Your Life Slip By. *
 
@@ -34,9 +34,9 @@ You can run `timewrap` directly with no installation:
 
 ```bash
 npx timewrap
+```
 
-
-What You'll See
+# What You'll See
 * Your current age in days and years
 * How much time you’ve already spent sleeping and on screens
 * An estimate of how many days you have left, assuming a 90-year lifespan
