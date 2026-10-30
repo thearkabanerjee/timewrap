@@ -83,22 +83,22 @@ ${lifeBar}
 
   // === Good Habits Reward Messages ===
   if (sleep >= 6 && sleep <= 8 && screen <= 2) {
-    console.log(chalk.green.bold("✅ You're on track to win at life. Keep going.\n"));
+    console.log(chalk.green.bold("You're on track to win at life. Keep going.\n"));
   }
 
   if (screen <= 1) {
-    console.log(chalk.blue.bold("🧘 You're living like a monk. That’s rare. Stay sharp.\n"));
+    console.log(chalk.blue.bold("You're living like a monk. That’s rare. Stay sharp.\n"));
   }
 
   // === Regret Estimator ===
   const extraScreenHrs = screen - 1;
   const regretYears = ((extraScreenHrs / 24) * daysLeft / 365).toFixed(1);
   if (extraScreenHrs > 0) {
-    console.log(chalk.red(`⚠️  Cut screen time to 1hr/day and gain ~${regretYears} more years of life.`));
+    console.log(chalk.red(`Cut screen time to 1hr/day and gain ~${regretYears} more years of life.`));
   }
 
   // === Skill Investment Estimator ===
   const investTime = 1; // 1 hour/day learning
   const skillHours = Math.floor((investTime / 24) * daysLeft);
-  console.log(chalk.green(`💡 Use 1hr/day to learn something & gain ~${skillHours} hours & ${Math.floor(skillHours / 1000)} whole god damn skill before you age 90.\n`));
+  console.log(chalk.green(`Use 1hr/day to learn something & gain ~${skillHours} hours & ${Math.floor(skillHours / 1000)} whole god damn skill before you age 90.\n`));
 })();
